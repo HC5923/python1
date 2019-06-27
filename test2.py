@@ -1,4 +1,4 @@
-a = int(input("정수"))
-b = int(input("정수"))
+a = input()
+b = input()
 result = a + b
 print(a, "+", b, "=", result)
